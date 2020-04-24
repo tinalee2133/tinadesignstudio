@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"CachedTexturedBitmap_456":
+{
+	"frame": {"x":0,"y":0,"w":1280,"h":980},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":980},
+	"sourceSize": {"w":1280,"h":980}
+},
+"CachedTexturedBitmap_457":
+{
+	"frame": {"x":0,"y":982,"w":1280,"h":980},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":980},
+	"sourceSize": {"w":1280,"h":980}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.2.0.405",
+	"image": "sunshine_atlas_9.png",
+	"format": "RGB8",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
